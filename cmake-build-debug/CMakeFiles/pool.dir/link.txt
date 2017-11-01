@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pool.dir/main.cpp.o CMakeFiles/pool.dir/Pony.cpp.o CMakeFiles/pool.dir/Zombie.cpp.o CMakeFiles/pool.dir/ZombieEvent.cpp.o  -o pool 

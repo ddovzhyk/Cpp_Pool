@@ -1,0 +1,3 @@
+/home/ddovzhyk/pool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ddovzhyk/pool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ddovzhyk/pool/cmake-build-debug/CMakeFiles/pool.dir
